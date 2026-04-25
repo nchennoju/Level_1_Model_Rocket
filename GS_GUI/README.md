@@ -1,4 +1,4 @@
-# 🚀 Rocket Telemetry Desktop Console (v8)
+# 🚀 Rocket Telemetry Desktop Console
 
 A high-performance, real-time **Tkinter-based telemetry dashboard** for rocket systems.  
 Designed for long-duration runs, high data rates, and post-flight analysis without the overhead of a web UI.
