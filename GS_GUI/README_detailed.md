@@ -2,6 +2,7 @@
 
 A high-performance, real-time **Tkinter-based telemetry dashboard** for rocket systems.  
 Designed for long-duration runs, high data rates, and post-flight analysis without the overhead of a web UI.
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/d1eb3d0d-2d3d-4b13-89fa-34ced32f0d81" />
 
 ---
 
