@@ -133,7 +133,7 @@ pip install -r requirements.txt
 ## ▶️ Running
 
 ```bash
-python rocket_telemetry_tk_v8_5min_window.py
+python main.py
 ```
 
 ---
