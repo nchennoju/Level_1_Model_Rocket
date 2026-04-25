@@ -1,6 +1,8 @@
 # 🚀 Rocket Telemetry Desktop Console (v8)
 
 A high-performance Tkinter-based telemetry dashboard for rocket data.
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/366a1aca-26a4-4b9d-a621-7e2b809a1a83" />
+
 
 ## Features
 - Live Serial + Simulator
